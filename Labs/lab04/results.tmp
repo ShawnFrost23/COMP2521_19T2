@@ -1,0 +1,162 @@
+#nodes = 5000,  depth = 5000,  #compares = 0,  #rotates = 0
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 5000,  #compares = 0,  #rotates = 0
+
+> 
+#nodes = 5000,  depth = 13,  #compares = 0,  #rotates = 0
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 13,  #compares = 0,  #rotates = 0
+
+> 
+#nodes = 5000,  depth = 26,  #compares = 0,  #rotates = 0
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 26,  #compares = 0,  #rotates = 0
+
+> 
+#nodes = 5000,  depth = 5000,  #compares = 0,  #rotates = 4999
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 5000,  #compares = 0,  #rotates = 4999
+
+> 
+#nodes = 5000,  depth = 2954,  #compares = 0,  #rotates = 14058
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 2954,  #compares = 0,  #rotates = 14058
+
+> 
+#nodes = 5000,  depth = 27,  #compares = 0,  #rotates = 70926
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 27,  #compares = 0,  #rotates = 70926
+
+> 
+#nodes = 5000,  depth = 206,  #compares = 0,  #rotates = 103938
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 206,  #compares = 0,  #rotates = 103938
+
+> 
+#nodes = 5000,  depth = 20,  #compares = 0,  #rotates = 97470
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 20,  #compares = 0,  #rotates = 97470
+
+> 
+#nodes = 5000,  depth = 20,  #compares = 0,  #rotates = 3556
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 20,  #compares = 0,  #rotates = 3556
+
+> 
+#nodes = 5000,  depth = 2581,  #compares = 0,  #rotates = 4999
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 2581,  #compares = 0,  #rotates = 4999
+
+> 
+#nodes = 5000,  depth = 1801,  #compares = 0,  #rotates = 10134
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 1801,  #compares = 0,  #rotates = 10134
+
+> 
+#nodes = 5000,  depth = 32,  #compares = 0,  #rotates = 36244
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 32,  #compares = 0,  #rotates = 36244
+
+> 
+#nodes = 5000,  depth = 5000,  #compares = 0,  #rotates = 4999
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 32,  #compares = 0,  #rotates = 78918
+
+> 
+#nodes = 5000,  depth = 5000,  #compares = 0,  #rotates = 12022
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 31,  #compares = 0,  #rotates = 85893
+
+> 
+#nodes = 5000,  depth = 28,  #compares = 0,  #rotates = 73698
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 1117,  #compares = 0,  #rotates = 145767
+
+> 
+#nodes = 5000,  depth = 13,  #compares = 0,  #rotates = 4987
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 13,  #compares = 0,  #rotates = 4987
+
+> 
+#nodes = 5000,  depth = 14,  #compares = 0,  #rotates = 6193
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 14,  #compares = 0,  #rotates = 6193
+
+> 
+#nodes = 5000,  depth = 15,  #compares = 0,  #rotates = 4264
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 15,  #compares = 0,  #rotates = 4264
+
+> 

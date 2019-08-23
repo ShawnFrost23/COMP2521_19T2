@@ -1,0 +1,47 @@
+Input	Initial	Has	Number	AvgTime	AvgTime
+Size	Order	Dups	of runs	forusel	forsort
+5000	random	no     100	0.373 	0.000     (seconds)
+5000	sorted	no     100 	0.289	0.000     (seconds)
+5000	reverse	no     100 	0.291	0.000     (seconds)
+5000	random	yes    100 	0.376	0.000     (seconds)
+5000	sorted	yes    100 	0.284	0.000     (seconds)
+5000	reverse	yes    100	0.286	0.000     (seconds)
+
+10000	random	no     100	1.588	0.004     (seconds)
+10000	sorted	no     100	1.134	0.000     (seconds)
+10000	reverse	no     100	1.132	0.004     (seconds)
+10000	random	yes    100	1.584	0.004     (seconds)
+10000	sorted	yes    100	1.136	0.000     (seconds)
+10000	reverse	yes    100	1.140	0.000     (seconds)
+
+20000	random	no     100	6.863 	0.012     (seconds)
+20000	sorted	no     100 	4.523	0.004     (seconds)
+20000	reverse	no     100 	4.492	0.004     (seconds)
+20000	random	yes    100 	7.028	0.012     (seconds)
+20000	sorted	yes    100 	4.492	0.004     (seconds)
+20000	reverse	yes    100	4.496	0.004     (seconds)
+
+50000	random	no     100	48.10	0.028     (seconds)
+50000	sorted	no     100	28.034	0.010     (seconds)
+50000	reverse	no     100	27.922	0.012     (seconds)
+50000	random	yes    100	48.32	0.028     (seconds)
+50000	sorted	yes    100	27.924	0.012     (seconds)
+50000	reverse	yes    100	27.934	0.016     (seconds)
+
+
+General Remarks:
+
+Small Input Size - Observed a small timing difference. Although using relatively small input, our algorithm is already noticeably slower than the Sort function.
+
+Larger Input Size - Observed a larger timing difference. This is likely due to our algorithm being inferior/ less efficient than the pre programmed sort function.
+
+Large Input Size - Huge time difference. The fact that our sorting algorithm is slower is magnified as we increase input size.
+
+Conclusion: The Sort function appears to be superior and runs much faster for all non trivial cases.
+
+
+Patterns:
+
+When Input was given as random both our algorithm and the computer’s sort function were noticeably slower. This is likely due to both programs running more complex functions than simply adding input to the start or end of a sequence/ list.
+
+Surprisingly, both our algorithm and the computer ran input given as sorted and in reverse order at a very similar time. This is likely due to similarity or simplicity of adding an integer to the start or end of a sequence.

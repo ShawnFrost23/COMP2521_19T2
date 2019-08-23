@@ -1,0 +1,284 @@
+
+Test: ./tlab 5000 A L
+#nodes = 5000,  depth = 5000,  #compares = 12497500,  #rotates = 0
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 5000,  #compares = 33258530,  #rotates = 0
+
+>
+
+Test: ./tlab 5000 P L
+#nodes = 5000,  depth = 13,  #compares = 51822,  #rotates = 0
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 13,  #compares = 130148,  #rotates = 0
+
+>
+
+Test: ./tlab 5000 R L
+#nodes = 5000,  depth = 28,  #compares = 75016,  #rotates = 0
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 28,  #compares = 181343,  #rotates = 0
+
+>
+
+Test: ./tlab 5000 A A
+#nodes = 5000,  depth = 5000,  #compares = 4999,  #rotates = 4999
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 5000,  #compares = 12580635,  #rotates = 4999
+
+>
+
+Test: ./tlab 5000 P A
+#nodes = 5000,  depth = 2954,  #compares = 14058,  #rotates = 14058
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 2954,  #compares = 7444436,  #rotates = 14058
+
+>
+
+Test: ./tlab 5000 R A
+#nodes = 5000,  depth = 28,  #compares = 70759,  #rotates = 70759
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 28,  #compares = 179317,  #rotates = 70759
+
+>
+
+Test: ./tlab 5000 A B
+#nodes = 5000,  depth = 206,  #compares = 351929,  #rotates = 103938
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 206,  #compares = 768704,  #rotates = 103938
+
+>
+
+Test: ./tlab 5000 P B
+#nodes = 5000,  depth = 20,  #compares = 75098,  #rotates = 97470
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 20,  #compares = 166049,  #rotates = 97470
+
+>
+
+Test: ./tlab 5000 R B
+#nodes = 5000,  depth = 23,  #compares = 59071,  #rotates = 1168
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 23,  #compares = 145895,  #rotates = 1168
+
+>
+
+Test: ./tlab 5000 A R
+#nodes = 5000,  depth = 2492,  #compares = 10096,  #rotates = 4999
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 2492,  #compares = 6352810,  #rotates = 4999
+
+>
+
+Test: ./tlab 5000 P R
+#nodes = 5000,  depth = 1774,  #compares = 20080,  #rotates = 9983
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 1774,  #compares = 4511872,  #rotates = 9983
+
+>
+
+Test: ./tlab 5000 R R
+#nodes = 5000,  depth = 27,  #compares = 70786,  #rotates = 35237
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 27,  #compares = 171806,  #rotates = 35237
+
+>
+
+Test: ./tlab 5000 A S
+#nodes = 5000,  depth = 5000,  #compares = 4999,  #rotates = 4999
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 33,  #compares = 162293,  #rotates = 79481
+
+>
+
+Test: ./tlab 5000 P S
+#nodes = 5000,  depth = 5000,  #compares = 12022,  #rotates = 12022
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 29,  #compares = 169396,  #rotates = 86543
+
+>
+
+Test: ./tlab 5000 R S
+#nodes = 5000,  depth = 31,  #compares = 73667,  #rotates = 73667
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 1149,  #compares = 225151,  #rotates = 146337
+
+>
+
+Test: ./tlab 5000 A V
+#nodes = 5000,  depth = 13,  #compares = 56809,  #rotates = 4987
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 13,  #compares = 135310,  #rotates = 4987
+
+>
+
+Test: ./tlab 5000 P V
+#nodes = 5000,  depth = 14,  #compares = 58490,  #rotates = 6193
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 14,  #compares = 139140,  #rotates = 6193
+
+>
+
+Test: ./tlab 5000 R V
+#nodes = 5000,  depth = 15,  #compares = 55829,  #rotates = 4518
+
+Search for 5000 values known to be in tree
+Found 5000 matches; ok
+Search for 1666 values known to *not* be in tree
+Found 0 matches; ok
+#nodes = 5000,  depth = 15,  #compares = 134393,  #rotates = 4518
+
+>
+
+Results for Tests on 5000 values
+
+Depth = depth of tree, Cost = average #comparisons per search
+
+
+             Ascending Order        Prefix Order        Random Order
+Insert
+Method       Depth      Cost     Depth      Cost     Depth      Cost
+
+L         5000____  3114____  13______  12______  28______  16______
+
+A         5000____  1887____  2954____  1115____  28______  16______
+
+R         2492____  952_____  1774____  674_____  27______  15______
+
+B         206_____  63______  20______  14______  23______  13______
+
+S         Varies**  24______  Varies**  23______  Varies**  23______
+
+V         13______  12______  14______  12______  15______  12______
+
+
+Notes (what the above indicates):
+
+*******
+
+Most evident: The greater the depth of the tree the higher the cost of searching.
+
+This is intuitive as we know the # of nodes traversed is dependent on the depth of the tree.
+
+*******
+
++++++++++++++ General Observations +++++++++++++
+
+
+1. L: Standard Insertion (new values at the leaves):
+
+> Ascending order creates a tree with one branch per node. (Looks like a linked list or a long chain).
+This is why the depth is so great.
+
+> Prefix order creates a perfectly balanced tree.
+
+
+2. A: Inserts new values at the root:
+
+> Ascending order is similar to that for Standard Insertion, however we have a linked list in descending order.
+
+> As this method inserts at the root we lose the benefit of inserting in prefix order and so our tree is not balanced.
+
+
+3. R: Randomly switches between L and A to insert:
+
+> This function does not perform well for either ascending or prefix order. Weird combination leads to subpar results.
+
+
+4. B: Inserts at leaves and periodically rebalances:
+
+> By periodically rebalancing this method of insertion significantly improves the tree for ascending order.
+
+> Unfortunately by periodically rebalancing we increase the search costs for inserting leaves in prefix order.
+
+
+5. S: Insert using Splay tree approach:
+
+> Depth change varies.
+
+> Values added most recently are added to the top of the tree.
+
+> Overall this method proves effective at balancing, however, can become costly for every insertion.
+
+
+6. V: Insert using AVL Tree approach:
+
+> This approach is self balancing and ensures that the tree depth remains as low as possible, producing a balanced tree.
+
+
++++++++++++++++
+
+General remarks on random insertion:
+
+> Across the board random order insertion performed very well.
+
+> Intuitively since values are not supposed to hold any correlation to each other the chance of hitting multiple values
+in ascending or descending order is low. This eliminates a chain like or linked list structure that is costly
+to traverse. 
