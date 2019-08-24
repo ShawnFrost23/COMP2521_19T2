@@ -1,0 +1,58 @@
+and 0.030303  file11.txt 
+apparent 0.030303  file11.txt 
+ascribed 0.030303  file11.txt 0.062500  file21.txt 
+attributed 0.030303  file11.txt 0.062500  file21.txt 
+been 0.030303  file11.txt 
+changes 0.030303  file11.txt 0.062500  file21.txt 
+circle 0.111111  mixed.txt 0.222222  planets.txt 
+color 0.030303  file11.txt 0.062500  file21.txt 
+cycles 0.142857  info31.txt 
+design 0.030303  file11.txt 0.062500  file21.txt 
+early 0.030303  file11.txt 
+eu 0.076923  nasa.txt 
+experiments 0.076923  nasa.txt 
+features 0.030303  file11.txt 0.062500  file21.txt 
+has 0.030303  file11.txt 
+high 0.055556  mixed.txt 
+human 0.030303  file11.txt 
+intelligent 0.030303  file11.txt 0.062500  file21.txt 
+interest 0.030303  file11.txt 
+japan 0.076923  nasa.txt 
+jupiter 0.076923  nasa.txt 
+jupitor 0.055556  mixed.txt 
+landing 0.071429  news1.txt 
+light 0.142857  info31.txt 0.055556  mixed.txt 
+linear 0.030303  file11.txt 0.062500  file21.txt 
+long 0.030303  file11.txt 
+man 0.071429  news1.txt 
+mars 0.030303  file11.txt 0.062500  file21.txt 0.055556  mixed.txt 0.076923  nasa.txt 0.142857  news1.txt 0.222222  planets.txt 
+moon 0.142857  info31.txt 0.055556  mixed.txt 0.153846  nasa.txt 0.142857  news1.txt 0.111111  planets.txt 
+moons 0.055556  mixed.txt 
+nasa 0.076923  nasa.txt 
+observations 0.030303  file11.txt 
+of 0.030303  file11.txt 
+on 0.030303  file11.txt 
+planet 0.076923  nasa.txt 0.071429  news1.txt 
+planets 0.076923  nasa.txt 
+pluto 0.055556  mixed.txt 0.111111  planets.txt 
+promise 0.071429  news1.txt 
+rays 0.142857  info31.txt 0.055556  mixed.txt 
+red 0.071429  news1.txt 
+revealed 0.030303  file11.txt 0.062500  file21.txt 
+robot 0.076923  nasa.txt 
+robotics 0.071429  news1.txt 
+seasonal 0.030303  file11.txt 0.062500  file21.txt 0.111111  planets.txt 
+small 0.055556  mixed.txt 
+subject 0.030303  file11.txt 
+sun 0.142857  info31.txt 0.222222  mixed.txt 0.071429  news1.txt 0.111111  planets.txt 
+surface 0.030303  file11.txt 0.062500  file21.txt 
+telescopic 0.030303  file11.txt 
+that 0.030303  file11.txt 
+the 0.060606  file11.txt 
+to 0.060606  file11.txt 0.125000  file21.txt 
+vegetation 0.030303  file11.txt 0.062500  file21.txt 
+volcano 0.142857  info31.txt 0.055556  mixed.txt 0.076923  nasa.txt 0.071429  news1.txt 
+waves 0.055556  mixed.txt 
+weather 0.142857  info31.txt 0.076923  nasa.txt 0.142857  news1.txt 
+were 0.060606  file11.txt 0.062500  file21.txt 
+winds 0.055556  mixed.txt 0.111111  planets.txt 
